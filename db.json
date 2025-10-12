@@ -1,0 +1,1706 @@
+{
+  "products": [
+    {
+      "id": 1,
+      "slug": "1",
+      "Img": "/img/best-1.png",
+      "ImgAlt": "Angel's Wing",
+      "Title": "Angel's Wing",
+      "SubTitle": "Bonsai",
+      "Price": 25,
+      "Discount": 14,
+      "OriginalPrice": 29.9,
+      "isOnSale": true,
+      "BestProduct": true,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Angel’s Wing is an elegant ornamental plant renowned for its large, wing-shaped foliage that instantly enhances the beauty of any space. With its lush greenery, this plant creates a serene atmosphere, making it a favorite for both indoor and outdoor decor enthusiasts.",
+          "title2": "Care Tips",
+          "desc2": "Angel’s Wing thrives in bright, indirect light and requires consistent watering. Keep the soil moist but avoid waterlogging. Regular misting helps maintain humidity levels and keeps the leaves healthy. Protect it from direct harsh sunlight to prevent leaf burn.",
+          "title3": "Appeal & Uses",
+          "desc3": "Beyond its decorative charm, Angel’s Wing purifies the air and improves room aesthetics. It works well as a centerpiece in living rooms or patios and can be paired with other plants to create a vibrant green corner. Its unique form makes it a natural conversation starter"
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 0
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 1
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 2,
+      "slug": "2",
+      "Img": "/img/best-2.png",
+      "ImgAlt": "Areca Palm",
+      "Title": "Areca Palm",
+      "SubTitle": "Bonsai",
+      "Price": 50,
+      "Discount": 0,
+      "OriginalPrice": 60,
+      "isOnSale": false,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "The Areca Palm is a graceful indoor plant with slender fronds that add elegance and warmth to living spaces. Known for its air-purifying qualities, this plant brings a tropical ambiance indoors, making it a preferred choice for modern interiors.",
+          "title2": "Care Tips",
+          "desc2": "This plant thrives in bright, indirect light and needs frequent watering to keep soil slightly moist. It prefers a humid environment and benefits from occasional leaf cleaning. Avoid exposing it to cold drafts or direct sunlight.",
+          "title3": "Appeal & Uses",
+          "desc3": "Areca Palm is ideal for office spaces, living rooms, or entryways, bringing an uplifting vibe to interiors. Its feathery fronds work beautifully in tall decorative pots and enhance minimalist decor by adding a natural touch."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 3
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 2
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 3,
+      "slug": "3",
+      "Img": "/img/best-3.png",
+      "ImgAlt": "Arrowroot",
+      "Title": "Arrowroot",
+      "SubTitle": "Bonsai",
+      "Price": 70,
+      "Discount": 0,
+      "OriginalPrice": 0,
+      "isOnSale": false,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Arrowroot captivates with its large, glossy leaves and tropical allure. Often used as an ornamental centerpiece, it is perfect for bringing lush greenery into homes and gardens. Its bold leaf shape creates a dramatic focal point.",
+          "title2": "Care Tips",
+          "desc2": "This plant prefers indirect sunlight and consistently moist soil. Avoid letting the soil dry completely. Fertilizing every few weeks during the growing season promotes healthy foliage. Regular trimming helps maintain its shape.",
+          "title3": "Appeal & Uses",
+          "desc3": "Arrowroot is perfect for creating green focal points indoors or outdoors. It thrives in pots or garden beds and can be used to add texture to plant arrangements. Its bold leaves are ideal for a tropical-inspired decor."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 4,
+      "slug": "4",
+      "Img": "/img/best-6.png",
+      "ImgAlt": "Bird of Paradise",
+      "Title": "Bird of Paradise",
+      "SubTitle": "Bonsai",
+      "Price": 30,
+      "Discount": 0,
+      "OriginalPrice": 0,
+      "isOnSale": false,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Bird of Paradise is a tropical beauty famous for its exotic flowers and striking leaves. It transforms any indoor or outdoor space into a lush paradise, offering vibrant charm throughout the year.",
+          "title2": "Care Tips",
+          "desc2": "This plant requires bright indirect light and regular watering. Fertilize during blooming season for best flower production. Prune old leaves to encourage healthy growth. Avoid overwatering to prevent root rot.",
+          "title3": "Appeal & Uses",
+          "desc3": "It serves as a stunning focal point in living rooms, balconies, or gardens. Bird of Paradise adds an exotic feel to spaces and pairs beautifully with other tropical plants. Its unique flowers are a centerpiece for floral enthusiasts."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 5,
+      "slug": "5",
+      "Img": "/img/best-10.png",
+      "ImgAlt": "Candelabra Aloe",
+      "Title": "Candelabra Aloe",
+      "SubTitle": "Bonsai",
+      "Price": 60,
+      "Discount": 0,
+      "OriginalPrice": 0,
+      "isOnSale": false,
+      "BestProduct": true,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Candelabra Aloe is a striking succulent with tall, sculptural stems and vibrant blooms. Known for its resilience, it adds a bold aesthetic to both indoor and outdoor spaces.",
+          "title2": "Care Tips",
+          "desc2": "Requires full sunlight for optimal growth and minimal watering. Well-draining soil is essential. Protect it from frost and extreme cold. Prune dead flowers to maintain its beauty.",
+          "title3": "Appeal & Uses",
+          "desc3": "Ideal for desert-themed gardens or sunny indoor spots, this plant adds structural elegance. Its dramatic shape makes it suitable for artistic plant displays, and it thrives with minimal maintenance."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 3
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 6,
+      "slug": "6",
+      "Img": "/img/best-11.png",
+      "ImgAlt": "Fiddle Leaf Fig",
+      "Title": "Fiddle Leaf Fig",
+      "SubTitle": "Bonsai",
+      "Price": 55,
+      "Discount": 13,
+      "OriginalPrice": 65,
+      "isOnSale": true,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "The Fiddle Leaf Fig is a popular ornamental plant recognized for its large, violin-shaped leaves. Its dramatic presence makes it a centerpiece in contemporary interiors.",
+          "title2": "Care Tips",
+          "desc2": "Requires bright indirect light and occasional watering. Avoid direct sunlight that can scorch leaves. Rotate the plant periodically for even growth and clean leaves regularly to maintain shine.",
+          "title3": "Appeal & Uses",
+          "desc3": "Perfect for living rooms or open spaces, this plant brings bold elegance. It complements modern decor and works well as a statement piece in plant arrangements."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 7,
+      "slug": "7",
+      "Img": "/img/best-7.png",
+      "ImgAlt": "Angel's Wing1",
+      "Title": "Angel's Wing1",
+      "SubTitle": "Bonsai",
+      "Price": 25,
+      "Discount": 0,
+      "OriginalPrice": 0,
+      "isOnSale": false,
+      "BestProduct": true,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Golden Pothos is a resilient, trailing plant with vibrant variegated leaves. Its adaptability makes it a favorite for both beginners and plant collectors.",
+          "title2": "Care Tips",
+          "desc2": "Thrives in low to moderate light and needs occasional watering. Allow soil to dry between watering sessions. Trim vines to encourage fuller growth.",
+          "title3": "Appeal & Uses",
+          "desc3": "Golden Pothos is ideal for hanging baskets or trailing from shelves. Its flowing vines create a calming natural atmosphere, making it perfect for bedrooms or workspaces."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 3
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 8,
+      "slug": "8",
+      "Img": "/img/best-9.png",
+      "ImgAlt": "Homalomena",
+      "Title": "Homalomena",
+      "SubTitle": "Bonsai",
+      "Price": 20,
+      "Discount": 0,
+      "OriginalPrice": 0,
+      "isOnSale": false,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Homalomena stands out with glossy, heart-shaped leaves that brighten up interiors. It is a low-maintenance plant, valued for its beauty and air-purifying abilities.",
+          "title2": "Care Tips",
+          "desc2": "Thrives in indirect light and requires moderate watering. Avoid direct sunlight to prevent leaf damage. Humidity boosts its growth and keeps leaves lush.",
+          "title3": "Appeal & Uses",
+          "desc3": "Perfect for desks, living rooms, or entryways. Homalomena creates a calming ambiance and pairs well with other indoor plants, adding depth and greenery to any arrangement."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 3
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 9,
+      "slug": "9",
+      "Img": "/img/best-8.png",
+      "ImgAlt": "Japanese Holly",
+      "Title": "Japanese Holly",
+      "SubTitle": "Bonsai",
+      "Price": 62,
+      "Discount": 11,
+      "OriginalPrice": 80,
+      "isOnSale": false,
+      "BestProduct": true,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Japanese Holly is an evergreen plant with shiny leaves, adding a refined elegance to gardens and interiors. Its compact shape makes it versatile for various designs.",
+          "title2": "Care Tips",
+          "desc2": "Thrives in partial to full sunlight with well-draining soil. Regular pruning preserves its shape and health. Avoid overwatering to prevent root rot.",
+          "title3": "Appeal & Uses",
+          "desc3": "Works well as decorative hedges or indoor accents. Japanese Holly enhances both formal and casual settings, making it ideal for landscaping or interior greenery."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 3
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 10,
+      "slug": "10",
+      "Img": "/img/best-1.png",
+      "ImgAlt": "Angel's Wing",
+      "Title": "Angel's Wing",
+      "SubTitle": "Bonsai",
+      "Price": 25,
+      "Discount": 14,
+      "OriginalPrice": 29.9,
+      "isOnSale": true,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Angel’s Wing is an elegant ornamental plant renowned for its large, wing-shaped foliage that instantly enhances the beauty of any space. With its lush greenery, this plant creates a serene atmosphere, making it a favorite for both indoor and outdoor decor enthusiasts.",
+          "title2": "Care Tips",
+          "desc2": "Angel’s Wing thrives in bright, indirect light and requires consistent watering. Keep the soil moist but avoid waterlogging. Regular misting helps maintain humidity levels and keeps the leaves healthy. Protect it from direct harsh sunlight to prevent leaf burn.",
+          "title3": "Appeal & Uses",
+          "desc3": "Beyond its decorative charm, Angel’s Wing purifies the air and improves room aesthetics. It works well as a centerpiece in living rooms or patios and can be paired with other plants to create a vibrant green corner. Its unique form makes it a natural conversation starter"
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 0
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 1
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 11,
+      "slug": "11",
+      "Img": "/img/best-2.png",
+      "ImgAlt": "Areca Palm",
+      "Title": "Areca Palm",
+      "SubTitle": "Bonsai",
+      "Price": 50,
+      "Discount": 0,
+      "OriginalPrice": 60,
+      "isOnSale": false,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "The Areca Palm is a graceful indoor plant with slender fronds that add elegance and warmth to living spaces. Known for its air-purifying qualities, this plant brings a tropical ambiance indoors, making it a preferred choice for modern interiors.",
+          "title2": "Care Tips",
+          "desc2": "This plant thrives in bright, indirect light and needs frequent watering to keep soil slightly moist. It prefers a humid environment and benefits from occasional leaf cleaning. Avoid exposing it to cold drafts or direct sunlight.",
+          "title3": "Appeal & Uses",
+          "desc3": "Areca Palm is ideal for office spaces, living rooms, or entryways, bringing an uplifting vibe to interiors. Its feathery fronds work beautifully in tall decorative pots and enhance minimalist decor by adding a natural touch."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 3
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 2
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 12,
+      "slug": "12",
+      "Img": "/img/best-3.png",
+      "ImgAlt": "Arrowroot",
+      "Title": "Arrowroot",
+      "SubTitle": "Bonsai",
+      "Price": 70,
+      "Discount": 0,
+      "OriginalPrice": 0,
+      "isOnSale": false,
+      "BestProduct": true,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Arrowroot captivates with its large, glossy leaves and tropical allure. Often used as an ornamental centerpiece, it is perfect for bringing lush greenery into homes and gardens. Its bold leaf shape creates a dramatic focal point.",
+          "title2": "Care Tips",
+          "desc2": "This plant prefers indirect sunlight and consistently moist soil. Avoid letting the soil dry completely. Fertilizing every few weeks during the growing season promotes healthy foliage. Regular trimming helps maintain its shape.",
+          "title3": "Appeal & Uses",
+          "desc3": "Arrowroot is perfect for creating green focal points indoors or outdoors. It thrives in pots or garden beds and can be used to add texture to plant arrangements. Its bold leaves are ideal for a tropical-inspired decor."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 13,
+      "slug": "13",
+      "Img": "/img/best-6.png",
+      "ImgAlt": "Bird of Paradise",
+      "Title": "Bird of Paradise",
+      "SubTitle": "Bonsai",
+      "Price": 30,
+      "Discount": 0,
+      "OriginalPrice": 0,
+      "isOnSale": false,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Bird of Paradise is a tropical beauty famous for its exotic flowers and striking leaves. It transforms any indoor or outdoor space into a lush paradise, offering vibrant charm throughout the year.",
+          "title2": "Care Tips",
+          "desc2": "This plant requires bright indirect light and regular watering. Fertilize during blooming season for best flower production. Prune old leaves to encourage healthy growth. Avoid overwatering to prevent root rot.",
+          "title3": "Appeal & Uses",
+          "desc3": "It serves as a stunning focal point in living rooms, balconies, or gardens. Bird of Paradise adds an exotic feel to spaces and pairs beautifully with other tropical plants. Its unique flowers are a centerpiece for floral enthusiasts."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 14,
+      "slug": "14",
+      "Img": "/img/best-10.png",
+      "ImgAlt": "Candelabra Aloe",
+      "Title": "Candelabra Aloe",
+      "SubTitle": "Bonsai",
+      "Price": 60,
+      "Discount": 0,
+      "OriginalPrice": 0,
+      "isOnSale": false,
+      "BestProduct": false,
+
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Candelabra Aloe is a striking succulent with tall, sculptural stems and vibrant blooms. Known for its resilience, it adds a bold aesthetic to both indoor and outdoor spaces.",
+          "title2": "Care Tips",
+          "desc2": "Requires full sunlight for optimal growth and minimal watering. Well-draining soil is essential. Protect it from frost and extreme cold. Prune dead flowers to maintain its beauty.",
+          "title3": "Appeal & Uses",
+          "desc3": "Ideal for desert-themed gardens or sunny indoor spots, this plant adds structural elegance. Its dramatic shape makes it suitable for artistic plant displays, and it thrives with minimal maintenance."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 3
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 15,
+      "slug": "15",
+      "Img": "/img/best-11.png",
+      "ImgAlt": "Fiddle Leaf Fig",
+      "Title": "Fiddle Leaf Fig",
+      "SubTitle": "Bonsai",
+      "Price": 55,
+      "Discount": 13,
+      "OriginalPrice": 65,
+      "isOnSale": true,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "The Fiddle Leaf Fig is a popular ornamental plant recognized for its large, violin-shaped leaves. Its dramatic presence makes it a centerpiece in contemporary interiors.",
+          "title2": "Care Tips",
+          "desc2": "Requires bright indirect light and occasional watering. Avoid direct sunlight that can scorch leaves. Rotate the plant periodically for even growth and clean leaves regularly to maintain shine.",
+          "title3": "Appeal & Uses",
+          "desc3": "Perfect for living rooms or open spaces, this plant brings bold elegance. It complements modern decor and works well as a statement piece in plant arrangements."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 16,
+      "slug": "16",
+      "Img": "/img/best-7.png",
+      "ImgAlt": "Angel's Wing1",
+      "Title": "Angel's Wing1",
+      "SubTitle": "Bonsai",
+      "Price": 25,
+      "Discount": 0,
+      "OriginalPrice": 0,
+      "isOnSale": false,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Golden Pothos is a resilient, trailing plant with vibrant variegated leaves. Its adaptability makes it a favorite for both beginners and plant collectors.",
+          "title2": "Care Tips",
+          "desc2": "Thrives in low to moderate light and needs occasional watering. Allow soil to dry between watering sessions. Trim vines to encourage fuller growth.",
+          "title3": "Appeal & Uses",
+          "desc3": "Golden Pothos is ideal for hanging baskets or trailing from shelves. Its flowing vines create a calming natural atmosphere, making it perfect for bedrooms or workspaces."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 3
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 17,
+      "slug": "17",
+      "Img": "/img/best-9.png",
+      "ImgAlt": "Homalomena",
+      "Title": "Homalomena",
+      "SubTitle": "Bonsai",
+      "Price": 20,
+      "Discount": 0,
+      "OriginalPrice": 0,
+      "isOnSale": false,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Homalomena stands out with glossy, heart-shaped leaves that brighten up interiors. It is a low-maintenance plant, valued for its beauty and air-purifying abilities.",
+          "title2": "Care Tips",
+          "desc2": "Thrives in indirect light and requires moderate watering. Avoid direct sunlight to prevent leaf damage. Humidity boosts its growth and keeps leaves lush.",
+          "title3": "Appeal & Uses",
+          "desc3": "Perfect for desks, living rooms, or entryways. Homalomena creates a calming ambiance and pairs well with other indoor plants, adding depth and greenery to any arrangement."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 3
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 4
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    },
+    {
+      "id": 18,
+      "slug": "18",
+      "Img": "/img/best-8.png",
+      "ImgAlt": "Japanese Holly",
+      "Title": "Japanese Holly",
+      "SubTitle": "Bonsai",
+      "Price": 62,
+      "Discount": 11,
+      "OriginalPrice": 80,
+      "isOnSale": false,
+      "BestProduct": false,
+      "popularity": 89,
+      "relevance": 76,
+      "Description": "Plants are mainly multicellular organisms, predominantly photosynthetic eukaryotes of the kingdom Plantae...",
+      "productInfo": {
+        "description": {
+          "title1": "Introduction",
+          "desc1": "Japanese Holly is an evergreen plant with shiny leaves, adding a refined elegance to gardens and interiors. Its compact shape makes it versatile for various designs.",
+          "title2": "Care Tips",
+          "desc2": "Thrives in partial to full sunlight with well-draining soil. Regular pruning preserves its shape and health. Avoid overwatering to prevent root rot.",
+          "title3": "Appeal & Uses",
+          "desc3": "Works well as decorative hedges or indoor accents. Japanese Holly enhances both formal and casual settings, making it ideal for landscaping or interior greenery."
+        },
+        "information": {
+          "weight": 22,
+          "dimensions": "53 * 49 * 30 cm",
+          "productYear": 2024,
+          "productManual": "Included in the package",
+          "refundable": "Up to 14 days"
+        },
+        "reviews": [
+          {
+            "name": "Ali Widerman",
+            "date": "11 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa jan ",
+            "date": "10 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 5
+          },
+          {
+            "name": "Rosa Widerman",
+            "date": "12 January 2024",
+            "review": "Awesome, Thank you so much for your sincere support and best product.",
+            "rating": 3
+          }
+        ],
+        "sizeGuide": [
+          {
+            "size": "XS",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "S",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "M",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "L",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          },
+          {
+            "size": "XXL",
+            "USA": "28 - 30",
+            "Europe": "27 - 29",
+            "Others": "34 - 36"
+          }
+        ]
+      }
+    }
+  ],
+  "about": [
+    {
+      "about": {
+        "img":"/img/gardeners.jpg",
+        "title": "ABOUT US",
+        "subtitle": "WHO WE ARE?",
+        "paragraphs": [
+          "Floristry is the production, commerce, and trade in flowers. It encompasses flower care and handling, floral design, or flower arranging, merchandising, production, display and flower delivery. Wholesale florists sell bulk flowers and related supplies to professionals in the trade. Retail florists offer fresh flowers and related products and services to consumers. The first flower shop in the United States opened prior to 1851",
+          "Flower Shop concerns the cultivation of flowers as well as their arrangement, sale. Much of the raw material supplied for the floristry trade comes from the cut flowers industry. Florist shops, along with online stores, are the main flower-only outlets, but supermarkets, garden supply stores, and filling stations also sell flowers."
+        ],
+        "features": [
+          "Good Woods",
+          "Natural Materials",
+          "Best Fabrics",
+          "Free Shipping",
+          "5 Days Refund",
+          "Friendly Support"
+        ]
+      },
+      "history": {
+        "title": "OUR HISTORY",
+        "subtitle": "WHAT WE DONE?",
+        "img":"/img/img2.jpg",
+        "description":["People have been using natural objects, such as tree stumps, rocks and moss, as furniture since the beginning of human civilisation. Archaeological research shows that from around 30,000 years ago, people began constructing and carving their own furniture, using wood, stone, and animal bones.",
+        "All you need for your garden or office in one place, any flower or plant that you like and any fertilizer for any kind of plants."],
+        "icons": [
+          "/img/icon1.png",
+          "/img/icon3.png",
+          "/img/icon4.png",
+          "/img/icon5.png",
+          "/img/icon6.png",
+          "/img/icon7.png"
+        ]
+      },
+      "numbers": [
+        {"img":"/img/bg1.jpg"},
+        { "value": "23+", "label": "Years of experience" },
+        { "value": "35k", "label": "Happy Clients" },
+        { "value": "46+", "label": "Award Winning" },
+        { "value": "33+", "label": "Showrooms" }
+      ],
+      "testimonials": [
+        {
+          "name": "Mark Smith",
+          "role": "Businessman",
+          "text": "People have been using natural objects, such as tree stumps, rocks and moss, as furniture since ancient times.",
+          "image": "/img/t12.jpg"
+        },
+        {
+          "name": "Jennifer Someone",
+          "role": "Singer",
+          "text": "I wholeheartedly recommend Xtra Flower Shop for your garden needs. I have used their services twice.",
+          "image": "/img/t11.jpg"
+        },
+        {
+          "name": "Amanda Sanchez",
+          "role": "Artist",
+          "text": "Highly recommend Xtra Flower Shop for your plant needs. Great service and professional staff.",
+          "image": "/img/t13.jpg"
+        }
+      ]
+    }
+  ]
+}
