@@ -7,11 +7,18 @@ type WishlistContextType = {
   removeFromWishlist: (id: number) => void;
   wishlistCount: number;
   isInWishlist: (id: number) => boolean;
+
 };
 
-const WishlistContext = createContext<WishlistContextType | undefined>(undefined);
+const WishlistContext = createContext<WishlistContextType | undefined>(
+  undefined
+);
 
-export const WishlistProvider = ({ children }: { children: React.ReactNode }) => {
+export const WishlistProvider = ({
+  children,
+}: {
+  children: React.ReactNode;
+}) => {
   const [wishlist, setWishlist] = useState<IProducts[]>([]);
 
   const addToWishlist = (product: IProducts) => {
@@ -36,6 +43,7 @@ export const WishlistProvider = ({ children }: { children: React.ReactNode }) =>
         removeFromWishlist,
         wishlistCount: wishlist.length,
         isInWishlist,
+       
       }}
     >
       {children}
@@ -45,6 +53,7 @@ export const WishlistProvider = ({ children }: { children: React.ReactNode }) =>
 
 export const useWishlist = () => {
   const context = useContext(WishlistContext);
-  if (!context) throw new Error("useWishlist must be used within a WishlistProvider");
+  if (!context)
+    throw new Error("useWishlist must be used within a WishlistProvider");
   return context;
 };

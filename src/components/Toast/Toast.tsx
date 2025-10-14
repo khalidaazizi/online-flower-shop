@@ -12,7 +12,9 @@ type ToastProps = {
   onClose: () => void
 };
 
-export default function Toast({ productName, show, type,onClose }: ToastProps) {
+
+
+export default function Toast({ productName, show, type, onClose }: ToastProps) {
   const [expanded, setExpanded] = useState(false);
 
   useEffect(() => {

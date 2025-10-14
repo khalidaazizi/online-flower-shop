@@ -1,11 +1,11 @@
-import { useEffect, useState } from "react";
+import {  useState } from "react";
 import ButtonMotion from "../Button/Button";
 import { IoStar, IoStarOutline } from "react-icons/io5";
 // import userImg from "";
-import { getProducts } from "../../services/api";
+
 import { FaCheck } from "react-icons/fa6";
 import type { IProducts } from "../../types/server";
-import { useParams } from "react-router-dom";
+
 import RatingStars from "../RatingStars/RatingStars";
 
 const faqImg = "/img/faq.jpg";
@@ -18,30 +18,14 @@ interface TabsProps {
 
 const Tabs: React.FC<TabsProps> = ({ product }) => {
   const [activeTab, setActiveTab] = useState("tab1");
-  const { id } = useParams();
-  // const [lastReview, setlastReviews] = useState<any[]>([]);
+ 
+ 
 
   const {
     productInfo: { description, information, reviews, sizeGuide },
   } = product;
 
-  // useEffect(() => {
-  //   getProducts().then((result) => {
-  //     const product = result.find(
-  //       (p: IProducts) => p.id === Number(id) || String(p.id) === id
-  //     );
-  //     console.log("Product found:", product);
-
-  //     if (product && product.productInfo?.reviews?.length > 0) {
-  //       // فقط آخرین نظر را بگیر
-  //       const lastReview =
-  //         product.productInfo.reviews[product.productInfo.reviews.length - 1];
-  //       setlastReviews([lastReview]); // فقط همون نظر آخر ذخیره می‌شود
-  //     } else {
-  //       setlastReviews([]);
-  //     }
-  //   });
-  // }, [id]);
+ 
 
 const lastReview = reviews.length > 0 ? reviews[reviews.length - 1] : null;
 

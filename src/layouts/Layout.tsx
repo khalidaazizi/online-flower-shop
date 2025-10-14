@@ -1,24 +1,42 @@
 import Footer from "../components/Footer/Footer";
 import Navbar from "../components/Navbar/Navbar";
-import { useWishlist } from "../context/WishlistContext";
 import Toast from "../components/Toast/Toast";
+import { useState } from "react";
+
 interface ILayout {
   children: React.ReactNode;
 }
+
 function Layout({ children }: ILayout) {
-   const { toastMessage, showToast } = useWishlist();
+  // مدیریت محلی Toast
+  const [toastData, setToastData] = useState<{
+    productName: string;
+    type: "cart" | "wishlist" | "compare";
+    show: boolean;
+  } | null>(null);
+
+  const showToast = (productName: string, type: "cart" | "wishlist" | "compare") => {
+    setToastData({ productName, type, show: true });
+    setTimeout(() => setToastData(null), 4000); // خودکار مخفی شود
+  };
+
+  const closeToast = () => setToastData(null);
+
   return (
     <>
       <Navbar />
       {children}
-       <Toast message={toastMessage} show={showToast} />
+      {toastData && toastData.show && (
+        <Toast
+          productName={toastData.productName}
+          type={toastData.type}
+          show={true}
+          onClose={closeToast}
+        />
+      )}
       <Footer />
     </>
   );
 }
 
 export default Layout;
-
-
-
-

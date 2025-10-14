@@ -1,4 +1,4 @@
-import { div } from "motion/react-client";
+
 import { useState } from "react";
 import { FaFacebookF, FaGooglePlusG, FaLinkedinIn } from "react-icons/fa";
 import Breadcrumb from "../../components/Breadcrumb/Breadcrumb";

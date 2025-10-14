@@ -3,7 +3,7 @@ import Breadcrumb from "../../components/Breadcrumb/Breadcrumb";
 import { IoMdHome } from "react-icons/io";
 import { useWishlist } from "../../context/WishlistContext";
 import { IoCloseSharp } from "react-icons/io5";
-import RatingStars from "../../components/RatingStars/RatingStars";
+
 
 // import { FaCheck } from "react-icons/fa6";
 export default function Wishlist() {

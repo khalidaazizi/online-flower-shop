@@ -7,7 +7,7 @@ import { HiOutlineShoppingCart } from "react-icons/hi2";
 import {
   Bars3Icon,
   HeartIcon,
-  MagnifyingGlassIcon,
+
   ShoppingBagIcon,
   UserIcon,
 } from "@heroicons/react/24/outline";
@@ -17,7 +17,7 @@ import Menu from "./Menu";
 import {
   FaFacebookF,
   FaInstagram,
-  FaTimes,
+
   FaTwitter,
   FaYoutube,
 } from "react-icons/fa";
@@ -33,7 +33,7 @@ function MobileNavbar() {
   const { wishlist } = useWishlist();
   const totalItemswishlist = wishlist.length;
   //
-  const [isSearchActive, setIsSearchActive] = useState(false);
+  // const [isSearchActive, setIsSearchActive] = useState(false);
 
   //
   const [isOpen, setIsOpen] = useState(false);

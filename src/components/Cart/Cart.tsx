@@ -7,7 +7,6 @@ import WishlistButton from "../WishlistButton/WishlistButton";
 import AddToCartButton from "../AddToCartButton/AddToCartButton";
 import Toast from "../Toast/Toast";
 import { useState } from "react";
-import QuickViewButton from "../QuickViewButton/QuickViewButton";
 import QuickViewModal from "../QuickViewModal/QuickViewModal";
 function Cart({
   product,

@@ -1,10 +1,10 @@
 import { useState } from "react";
 import { TbSearch } from "react-icons/tb";
-import type { IProducts } from "../../types/server";
-import QuickViewModal from "../QuickViewModal/QuickViewModal";
 
-export default function QuickViewButton({ product }: { product: IProducts }) {
-  const [open, setOpen] = useState(false);
+
+
+export default function QuickViewButton() {
+  const [, setOpen] = useState(false);
 
   return (
     <>

@@ -4,7 +4,7 @@ import { useCompare } from "../../context/CompareContext";
 import ActionModal from "../ActionModal/ActionModal";
 import type { IProducts } from "../../types/server";
 import { FaCheck } from "react-icons/fa";
-import { button } from "motion/react-client";
+
 import { Link } from "react-router-dom";
 
 interface CompareButtonProps {

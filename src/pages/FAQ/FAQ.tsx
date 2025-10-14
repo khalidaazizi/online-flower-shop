@@ -4,7 +4,7 @@ import { FaRegQuestionCircle } from "react-icons/fa";
 
 import { MdOutlineComment } from "react-icons/md";
 import Breadcrumb from "../../components/Breadcrumb/Breadcrumb";
-import { label } from "motion/react-client";
+
 import { IoMdHome } from "react-icons/io";
 
 export default function FAQSection() {
