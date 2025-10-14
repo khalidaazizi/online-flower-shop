@@ -15,8 +15,17 @@ const defaultAttrs: Attribute[] = [
   { key: "price", label: "Price" },
   { key: "brand", label: "Brand" },
   { key: "description", label: "Description" },
+  { key: "product_sKU", label: "Product SKU" },
   { key: "availability", label: "Availability" },
+  { key: "individual_sale", label: "Individual sale" },
   { key: "tax_status", label: "Tax Status" },
+  { key: "weight", label: "Weight" },
+  { key: "length", label: "Length" },
+  { key: "height", label: "Height" },
+  { key: "average_rating", label: "Average rating" },
+  { key: "product_year", label: "Product year" },
+  { key: "product_manual", label: "Product manual" },
+  { key: "refundable", label: "Refundable" },
 ];
 
 const CompareTable: React.FC<CompareTableProps> = ({ attrs = defaultAttrs }) => {
@@ -50,8 +59,8 @@ const CompareTable: React.FC<CompareTableProps> = ({ attrs = defaultAttrs }) => 
   };
 
   return (
-    <div className="bg-white border rounded-md overflow-x-auto">
-      <table className="min-w-full table-fixed">
+    <div className="bg-white  overflow-x-auto">
+      <table className=" min-w-full table-fixed">
         <thead>
           <tr>
             <th className="w-40"></th>
@@ -63,9 +72,9 @@ const CompareTable: React.FC<CompareTableProps> = ({ attrs = defaultAttrs }) => 
         <tbody>
           {/* image row */}
           <tr>
-            <td></td>
+            <td className="border border-[#dedede]"></td>
             {compareItems.map((p) => (
-              <td key={p.id} className="py-6 px-6">
+              <td key={p.id} className="py-6 px-6 border border-[#dedede]">
                 <div className="flex flex-col items-center">
                   <button
                     onClick={() => removeFromCompare(p.id)}
@@ -77,7 +86,7 @@ const CompareTable: React.FC<CompareTableProps> = ({ attrs = defaultAttrs }) => 
                   <img
                     src={p.image || p.images?.[0] || "https://via.placeholder.com/160"}
                     alt={p.title || p.name}
-                    className="w-36 h-36 object-contain bg-white p-2 border"
+                    className="w-36 h-36 object-contain bg-white p-2 "
                   />
                   <div className="mt-3 text-sm font-medium">
                     {p.title || p.name}
@@ -94,14 +103,14 @@ const CompareTable: React.FC<CompareTableProps> = ({ attrs = defaultAttrs }) => 
 
           {/* attribute rows */}
           {attrs.map((attr) => (
-            <tr key={attr.key} className="border-t">
-              <td className="py-4 px-6 text-sm text-gray-600 font-medium w-40">
+            <tr key={attr.key} className="">
+              <td className="py-4 px-6 border bg-[#f1f1f1] border-[#dedede] text-sm text-gray-600 font-medium w-40">
                 {attr.label}
               </td>
               {compareItems.map((p) => (
                 <td
                   key={p.id + "-" + attr.key}
-                  className="py-4 px-6 text-sm text-gray-700 align-top"
+                  className="py-4 border border-[#dedede] px-6 text-sm text-gray-700 align-top"
                 >
                   {read(p, attr.key) ?? <span className="text-gray-300">—</span>}
                 </td>

@@ -36,10 +36,7 @@ export default function Wishlist() {
         ) : (
           <div className="grid grid-cols-1 md:grid-cols-2 lg:grid-cols-3 gap-6 mt-8">
             {wishlist.map((item) => (
-              <div
-                key={item.id}
-                className="bg-white shadow-md p-4 rounded relative"
-              >
+              <div key={item.id} className="bg-[#f1f1f1]  p-4  relative">
                 <button
                   onClick={() => removeFromWishlist(item.id)}
                   className="absolute top-2 right-2 text-red-500 hover:text-red-700"
@@ -47,46 +44,32 @@ export default function Wishlist() {
                   <IoCloseSharp size={20} />
                 </button>
 
-                <Link to={`/product/${item.id}`} className="block">
-                  <img
-                    src={item.Img}
-                    alt={item.ImgAlt}
-                    className="w-full h-48 object-contain"
-                  />
-                  <h3 className="mt-4 font-bold text-lg">{item.Title}</h3>
-                  <p className="text-gray-500">{item.SubTitle}</p>
-
-                  <div className="flex gap-2 mt-2 items-center">
-                    <RatingStars
-                      rating={
-                        item.productInfo?.reviews?.length
-                          ? item.productInfo.reviews.reduce(
-                              (sum, r) => sum + r.rating,
-                              0
-                            ) / item.productInfo.reviews.length
-                          : 0
-                      }
-                      color="text-yellow-400"
+                <div className="flex justify-center items-center text-center">
+                  <Link to={`/product/${item.id}`} className="block">
+                    <img
+                      src={item.Img}
+                      alt={item.ImgAlt}
+                      className="w-full h-48 object-contain"
                     />
-                  </div>
-
-                  <div className="mt-2 flex gap-2 items-center">
-                    {item.isOnSale && (
-                      <span className="line-through text-gray-500">
-                        ${item.OriginalPrice}
+                    <h3 className="mt-4 font-bold  text-lg">{item.Title}</h3>
+                    <p className="text-gray-500">{item.SubTitle}</p>
+                    <div className="mt-2">
+                      {item.isOnSale && (
+                        <span className="line-through text-gray-500">
+                          ${item.OriginalPrice}
+                        </span>
+                      )}
+                      <span className="font-bold  text-black">
+                        ${item.Price}
                       </span>
-                    )}
-                    <span className="font-bold text-black">${item.Price}</span>
-                  </div>
-                </Link>
+                    </div>
+                  </Link>
+                </div>
               </div>
             ))}
           </div>
         )}
       </div>
-
-
-     
     </>
-  ); 
+  );
 }
