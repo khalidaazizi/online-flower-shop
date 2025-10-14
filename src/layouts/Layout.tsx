@@ -15,7 +15,10 @@ function Layout({ children }: ILayout) {
     show: boolean;
   } | null>(null);
 
- 
+  const _showToast = (productName: string, type: "cart" | "wishlist" | "compare") => {
+    setToastData({ productName, type, show: true });
+    setTimeout(() => setToastData(null), 4000); // خودکار مخفی شود
+  };
 
   const closeToast = () => setToastData(null);
 
