@@ -2,25 +2,17 @@ import { Link } from "react-router-dom";
 import logo from "../../assets/img/logo.png";
 import { IoMdClose } from "react-icons/io";
 import { useLocation } from "react-router-dom";
-
 import { HiOutlineShoppingCart } from "react-icons/hi2";
 import {
   Bars3Icon,
   HeartIcon,
-
   ShoppingBagIcon,
   UserIcon,
 } from "@heroicons/react/24/outline";
 import { useCart } from "../../context/CartContext";
 import { useState, useEffect } from "react";
 import Menu from "./Menu";
-import {
-  FaFacebookF,
-  FaInstagram,
-
-  FaTwitter,
-  FaYoutube,
-} from "react-icons/fa";
+import { FaFacebookF, FaInstagram, FaTwitter, FaYoutube } from "react-icons/fa";
 import { useWishlist } from "../../context/WishlistContext";
 import { FaAngleDown } from "react-icons/fa6";
 import UserSearch from "../SearchBar/SearchBar";
@@ -33,7 +25,6 @@ function MobileNavbar() {
   const { wishlist } = useWishlist();
   const totalItemswishlist = wishlist.length;
   //
-  // const [isSearchActive, setIsSearchActive] = useState(false);
 
   //
   const [isOpen, setIsOpen] = useState(false);
@@ -97,22 +88,7 @@ function MobileNavbar() {
           </div>
           {/* search */}
           <div className="flex justify-between items-center px-3 relative">
-            {/* <input
-              onClick={() => setIsSearchActive(!isSearchActive)}
-              type="search"
-              placeholder="Search your fav..."
-              className={`border rounded-xs py-2 px-3 w-full shadow focus:outline-0 transition-all duration-300 ${
-                isSearchActive
-                  ? "border-[#65e056] ring-2 ring-[#0baa2a40]" // حالت سبز فعال
-                  : "border-gray-300"
-              }`}
-            />
-            <MagnifyingGlassIcon
-              className={`cursor-pointer w-5 absolute right-7 transition-colors duration-300 ${
-                isSearchActive ? "text-[#33c160]" : "text-[#002626cc]"
-              }`}
-            /> */}
-              <UserSearch  />
+            <UserSearch />
           </div>
 
           {/*  */}
@@ -133,7 +109,7 @@ function MobileNavbar() {
               />
             </div>
             <div className="flex items-center gap-1 group">
-               <FaAngleDown
+              <FaAngleDown
                 className={`text-[14px]  group-hover:text-[#33c160] ${
                   location.pathname === "/shop"
                     ? "text-[#33c160]"
@@ -194,7 +170,7 @@ function MobileNavbar() {
               />
             </div>
             <div className="flex items-center gap-1 group">
-               <FaAngleDown
+              <FaAngleDown
                 className={`text-[14px] group-hover:text-[#33c160]  ${
                   location.pathname === "/contact"
                     ? "text-[#33c160]"

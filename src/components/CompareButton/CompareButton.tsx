@@ -10,10 +10,14 @@ import { Link } from "react-router-dom";
 interface CompareButtonProps {
   product: IProducts;
   onAdd: () => void; // callback برای Toast
-  className?: string; 
+  className?: string;
 }
 
-const CompareButton: React.FC<CompareButtonProps> = ({ product, onAdd ,className}) => {
+const CompareButton: React.FC<CompareButtonProps> = ({
+  product,
+  onAdd,
+  className,
+}) => {
   const { compareItems, addToCompare } = useCompare();
   const [showModal, setShowModal] = useState(false);
 
@@ -33,16 +37,25 @@ const CompareButton: React.FC<CompareButtonProps> = ({ product, onAdd ,className
       <div className="relative group/icon">
         <div
           onClick={handleClick}
-          className={`${className || ""}    hover:bg-green-600 py-3 px-3 flex justify-center items-center h-10 w-10 cursor-pointer transition-colors duration-300 ease-in-out`}
+          className={`${
+            className || ""
+          }    hover:bg-green-600 py-3 px-3 flex justify-center items-center h-10 w-10 cursor-pointer transition-colors duration-300 ease-in-out`}
         >
-          {isAdded ? <FaCheck className="text-white" size={18} /> : <LuArrowLeftRight className="text-white" size={18} /> 
-         } 
+          {isAdded ? (
+            <FaCheck className="text-white" size={18} />
+          ) : (
+            <LuArrowLeftRight className="text-white" size={18} />
+          )}
         </div>
 
         <span className="absolute bottom-11 left-1/2 -translate-x-1/2 whitespace-nowrap text-xs bg-green-600 text-white px-4 py-2 opacity-0 scale-75 group-hover/icon:opacity-100 group-hover/icon:scale-100 transition duration-300 ease-out rounded">
-           {isAdded ? <Link to="/Compare"><button className="cursor-pointer">view compare</button></Link> : "Add to Compare "
-         }
-          
+          {isAdded ? (
+            <Link to="/Compare">
+              <button className="cursor-pointer">view compare</button>
+            </Link>
+          ) : (
+            "Add to Compare "
+          )}
         </span>
       </div>
 

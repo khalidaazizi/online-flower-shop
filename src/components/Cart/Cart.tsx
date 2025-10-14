@@ -1,4 +1,4 @@
-import { TbSearch } from "react-icons/tb";
+
 import { Link } from "react-router-dom";
 import type { IProducts } from "../../types/server";
 import RatingStars from "../RatingStars/RatingStars";
@@ -8,6 +8,7 @@ import AddToCartButton from "../AddToCartButton/AddToCartButton";
 import Toast from "../Toast/Toast";
 import { useState } from "react";
 import QuickViewModal from "../QuickViewModal/QuickViewModal";
+import QuickViewButton from "../QuickViewButton/QuickViewButton";
 function Cart({
   product,
   linkType,
@@ -108,13 +109,8 @@ function Cart({
             {/* Quick View */}
             
             <div className="relative group/icon ">
-              <div className="hover:bg-green-600 py-3 px-3 transition-colors duration-300 ease-in-out flex justify-center items-center h-10 w-10  ">
-                <button
-                  onClick={() => setOpen(true)}
-                  className="cursor-pointer">
-                  <TbSearch className="text-white" />
-                </button>
-              </div>
+              <QuickViewButton onClick={() => setOpen(true)}/>
+              
               <span className="absolute bottom-11 left-1/2 -translate-x-1/2 whitespace-nowrap text-xs bg-green-600 text-white px-4 py-2 opacity-0 scale-75 group-hover/icon:opacity-100 group-hover/icon:scale-100 transition duration-300 ease-out">
                 Quick View
               </span>

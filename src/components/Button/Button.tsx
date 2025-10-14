@@ -1,4 +1,4 @@
-import { motion, type Variants, type MotionProps } from "framer-motion";
+import { motion,  type MotionProps } from "framer-motion";
 import React, { type ComponentProps } from "react";
 
 type ButtonMotionProps = ComponentProps<"button"> &
