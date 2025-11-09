@@ -1,7 +1,8 @@
 import axios from "axios";
 
 const client = axios.create({
-    baseURL:"http://localhost:3000"
+    // baseURL:"http://localhost:3000"
+    baseURL:"https://my-json-server.typicode.com/khalidaazizi/fake-api"
 })
 export async function getProducts() {
     const {data} = await client("/products")
