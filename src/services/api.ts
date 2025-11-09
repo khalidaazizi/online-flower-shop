@@ -2,7 +2,7 @@ import axios from "axios";
 
 const client = axios.create({
     // baseURL:"http://localhost:3000"
-    baseURL: "https://fake-api.onrender.com" 
+     baseURL: "https://fake-api-3.onrender.com"   
 })
 export async function getProducts() {
     const {data} = await client("/products")
