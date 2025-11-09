@@ -2,7 +2,7 @@ import axios from "axios";
 
 const client = axios.create({
     // baseURL:"http://localhost:3000"
-    baseURL:"https://my-json-server.typicode.com/khalidaazizi/fake-api"
+    baseURL: "https://fake-api.onrender.com" 
 })
 export async function getProducts() {
     const {data} = await client("/products")
@@ -15,5 +15,6 @@ export async function getProduct(id:number | string) {
 
 
 }
+
 
 
